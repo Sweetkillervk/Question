@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Roadmap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 class="roadmap-title">Smart KYP</h1>
+        <div class="roadmap" id="roadmap-section">
+
+            <!-- basic computer section -->
+            <div class="roadmap-section">
+                <div class="section-title">Basic Computer knowledge ðŸ’»</div>
+                <div class="skills" id="skills-container">
+                    
+                    <div class="skill-card" data-json="BasicQuestion.json" style="background-color: #14df10;">Question</div>
+                </div>
+            </div>
+             
+            <!-- ms word Section -->
+            <div class="roadmap-section">
+                <div class="section-title"> ms word</div>
+                <div class="skills" id="skills-container">
+                    
+                     <div class="skill-card" data-json="WordQuestion.json" style="background-color: #14df10;">Question</div>
+                </div>
+            </div>
+            
+
+            <!-- Powerpoint -->
+            <div class="roadmap-section">
+                <div class="section-title"> Ms Powerpoint</div>
+                <div class="skills" id="skills-container">
+                    
+                    <div class="skill-card" data-json="PowerQuestion.json" style="background-color: #14df10;">Question</div>
+                    
+                </div>
+            </div>
+
+            
+            
+            
+            
+            
+        </div>
+        
+        <div id="data-container">
+            <p>Click on a skill to see details</p>
+        </div>
+        
+        <button id="back-button">Back</button>
+    </div>
+    
+    
+    
+    
+      <!-- Google Translate Dropdown -->
+    <div id="google_translate_element"></div>
+
+    <!-- Translate Button -->
+    <button class="translate-btn" onclick="toggleTranslate()"> Translate</button>
+
+    <script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'auto',
+                includedLanguages: 'en',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+
+        // Function to Toggle Translation Box
+        function toggleTranslate() {
+            var translateBox = document.getElementById("google_translate_element");
+            if (translateBox.style.display === "none" || translateBox.style.display === "") {
+                translateBox.style.display = "block";
+            } else {
+                translateBox.style.display = "none";
+            }
+        }
+    </script>
+
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+    
+    
+    
+    
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const skillCards = document.querySelectorAll(".skill-card");
+            const dataContainer = document.getElementById("data-container");
+            const roadmapSection = document.getElementById("roadmap-section");
+            const backButton = document.getElementById("back-button");
+
+            skillCards.forEach(card => {
+                card.addEventListener("click", async () => {
+                    const jsonFile = card.dataset.json;
+
+                    try {
+                        roadmapSection.style.display = "none";
+                        backButton.style.display = "block";
+                        dataContainer.innerHTML = `<p>Loading <strong>${card.innerText}</strong> details...</p>`;
+
+                        const response = await fetch(jsonFile);
+                        if (!response.ok) throw new Error("File not found");
+
+                        const data = await response.json();
+                        let output = `<h2 class="data-title">${data.title}</h2>`;
+
+                        data.content.forEach(item => {
+                            output += `
+                                <div class="data-section">
+                                    <h3 class="data-heading">${item.heading}</h3>
+                                    <p class="data-description">${item.description}</p>
+                                </div>
+                            `;
+                        });
+
+                        dataContainer.innerHTML = output;
+
+                    } catch (error) {
+                        console.error("Error fetching JSON:", error);
+                        dataContainer.innerHTML = `<p class="error">Error loading data. Please check the file path.</p>`;
+                    }
+                });
+            });
+
+            backButton.addEventListener("click", () => {
+                roadmapSection.style.display = "grid";
+                backButton.style.display = "none";
+                dataContainer.innerHTML = "<p>Click on a skill to see details</p>";
+            });
+        });
+    </script>
+
+</body>
+<script>
+	// Disable text selection
+document.addEventListener('selectstart', function(e) {
+    e.preventDefault();
+});
+
+// Disable right-click
+document.addEventListener('contextmenu', function(e) {
+    e.preventDefault();
+});
+
+// Disable drag events (to prevent dragging content)
+document.addEventListener('dragstart', function(e) {
+    e.preventDefault();
+});
+</script>
+
+
+</html>

@@ -1,0 +1,168 @@
+{
+    "title": "PowerPoint के महत्वपूर्ण प्रश्न और उत्तर",
+    "content":
+[
+    {
+        "heading": "<b>1.</b> MS PowerPoint क्या है?",
+        "description": "MS PowerPoint एक प्रेजेंटेशन सॉफ्टवेयर है,<br> जो स्लाइड्स के माध्यम से विज़ुअल जानकारी प्रस्तुत करने की सुविधा देता है।"
+    },
+    {
+        "heading": "<b>2.</b> PowerPoint में Slide Layout क्या होता है?",
+        "description": "Slide Layout वह प्रारूप है,<br> जो यह निर्धारित करता है कि स्लाइड में टेक्स्ट, इमेज, चार्ट आदि कैसे व्यवस्थित होंगे।"
+    },
+    {
+        "heading": "<b>3.</b> PowerPoint में Transition और Animation में क्या अंतर है?",
+        "description": "**Transition** स्लाइड बदलते समय प्रभाव देता है,<br> जबकि **Animation** स्लाइड के अंदर ऑब्जेक्ट्स पर प्रभाव डालता है।"
+    },
+    {
+        "heading": "<b>4.</b> PowerPoint में Master Slide का क्या उपयोग है?",
+        "description": "Master Slide सभी स्लाइड्स के लिए एक सामान्य डिज़ाइन सेट करता है,<br> जिससे एकरूपता बनी रहती है।"
+    },
+    {
+        "heading": "<b>5.</b> PowerPoint में SmartArt क्या है?",
+        "description": "SmartArt एक ग्राफिक टूल है,<br> जो जानकारी को आरेखों (Diagrams) के रूप में प्रस्तुत करता है।"
+    },
+    {
+        "heading": "<b>6.</b> PowerPoint में Custom Animation का क्या उपयोग है?",
+        "description": "Custom Animation स्लाइड में मौजूद ऑब्जेक्ट्स को मनचाहे तरीके से एनिमेट करने की सुविधा देता है।"
+    },
+    {
+        "heading": "<b>7.</b> PowerPoint में Slide Sorter View का क्या कार्य है?",
+        "description": "Slide Sorter View सभी स्लाइड्स को थंबनेल के रूप में दिखाता है,<br> जिससे स्लाइड्स को आसानी से व्यवस्थित किया जा सकता है।"
+    },
+    {
+        "heading": "<b>8.</b> PowerPoint में Rehearse Timings क्या है?",
+        "description": "Rehearse Timings का उपयोग प्रेजेंटेशन के लिए समय तय करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>9.</b> PowerPoint में Notes Pane का क्या उपयोग है?",
+        "description": "Notes Pane प्रेजेंटेशन के दौरान स्पीकर के लिए अतिरिक्त जानकारी जोड़ने की सुविधा देता है।"
+    },
+    {
+        "heading": "<b>10.</b> PowerPoint में Slide Show View क्या होता है?",
+        "description": "Slide Show View में प्रेजेंटेशन पूर्ण स्क्रीन पर चलता है,<br> और दर्शकों को दिखाने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>11.</b> PowerPoint में Design Tab का क्या कार्य है?",
+        "description": "Design Tab का उपयोग थीम, बैकग्राउंड और स्लाइड डिज़ाइन बदलने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>12.</b> PowerPoint में Hyperlink कैसे जोड़ते हैं?",
+        "description": "Hyperlink जोड़ने के लिए **Insert → Hyperlink** का उपयोग किया जाता है,<br> जिससे किसी अन्य स्लाइड, वेबपेज या डॉक्यूमेंट से लिंक किया जा सकता है।"
+    },
+    {
+        "heading": "<b>13.</b> PowerPoint में Slide Master को कैसे एक्सेस करें?",
+        "description": "Slide Master को **View → Slide Master** से एक्सेस किया जाता है।"
+    },
+    {
+        "heading": "<b>14.</b> PowerPoint में Picture Placeholder क्या है?",
+        "description": "Picture Placeholder एक कंटेनर होता है,<br> जिसमें इमेज या ग्राफिक्स डाले जा सकते हैं।"
+    },
+    {
+        "heading": "<b>15.</b> PowerPoint में Motion Path Animation क्या है?",
+        "description": "Motion Path Animation ऑब्जेक्ट्स को किसी विशेष दिशा में मूव करने की सुविधा देता है।"
+    },
+    {
+        "heading": "<b>16.</b> PowerPoint में Slide Number कैसे जोड़ें?",
+        "description": "Slide Number जोड़ने के लिए **Insert → Slide Number** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>17.</b> PowerPoint में Slide Background कैसे बदलते हैं?",
+        "description": "Slide Background बदलने के लिए **Design → Format Background** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>18.</b> PowerPoint में Custom Slide Show क्या है?",
+        "description": "Custom Slide Show का उपयोग चयनित स्लाइड्स को एक अलग प्रेजेंटेशन के रूप में दिखाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>19.</b> PowerPoint में Set Up Slide Show क्या है?",
+        "description": "Set Up Slide Show का उपयोग प्रेजेंटेशन मोड और अन्य सेटिंग्स को कस्टमाइज़ करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>20.</b> PowerPoint में Loop Continuously Until Esc का क्या कार्य है?",
+        "description": "यह विकल्प प्रेजेंटेशन को बार-बार चलाने की अनुमति देता है,<br> जब तक कि Esc की दबाई न जाए।"
+    },
+    
+    
+    {
+        "heading": "<b>21.</b> PowerPoint में Theme क्या है?",
+        "description": "Theme एक पूर्व-निर्धारित डिज़ाइन सेट होता है,<br> जिसमें रंग, फ़ॉन्ट और प्रभाव शामिल होते हैं।"
+    },
+    {
+        "heading": "<b>22.</b> PowerPoint में Slide Transition कैसे जोड़ते हैं?",
+        "description": "Slide Transition जोड़ने के लिए **Transitions → Choose Transition → Apply to All** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>23.</b> PowerPoint में Action Button क्या है?",
+        "description": "Action Button एक इंटरेक्टिव बटन होता है,<br> जो किसी स्लाइड, वेबपेज, या फ़ाइल को खोलने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>24.</b> PowerPoint में Animation Pane क्या है?",
+        "description": "Animation Pane का उपयोग स्लाइड के अंदर एनिमेशन इफेक्ट्स को प्रबंधित और समायोजित करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>25.</b> PowerPoint में Outline View क्या होता है?",
+        "description": "Outline View स्लाइड के टेक्स्ट को बिना डिज़ाइन दिखाने का एक तरीका है,<br> जिससे सामग्री को एडिट करना आसान हो जाता है।"
+    },
+    {
+        "heading": "<b>26.</b> PowerPoint में Slide Master और Handout Master में क्या अंतर है?",
+        "description": "**Slide Master** स्लाइड डिज़ाइन को नियंत्रित करता है,<br> जबकि **Handout Master** प्रिंटेड हैंडआउट्स के लिए लेआउट सेट करता है।"
+    },
+    {
+        "heading": "<b>27.</b> PowerPoint में Hyperlink हटाने का तरीका क्या है?",
+        "description": "Hyperlink हटाने के लिए **Right Click → Remove Hyperlink** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>28.</b> PowerPoint में Video Insert कैसे करें?",
+        "description": "Video जोड़ने के लिए **Insert → Video → Choose File** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>29.</b> PowerPoint में Audio Insert कैसे करें?",
+        "description": "Audio जोड़ने के लिए **Insert → Audio → Choose File** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>30.</b> PowerPoint में Slide Duration कैसे सेट करें?",
+        "description": "Slide Duration सेट करने के लिए **Transitions → Timing → Duration** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>31.</b> PowerPoint में Save As PDF कैसे करें?",
+        "description": "PowerPoint प्रेजेंटेशन को PDF में सेव करने के लिए **File → Save As → PDF** का चयन करें।"
+    },
+    {
+        "heading": "<b>32.</b> PowerPoint में Animation Trigger क्या है?",
+        "description": "Animation Trigger किसी विशेष ऑब्जेक्ट या इवेंट से जुड़ी हुई एनिमेशन स्टार्ट करने का तरीका है।"
+    },
+    {
+        "heading": "<b>33.</b> PowerPoint में Spell Check कैसे करें?",
+        "description": "Spell Check के लिए **Review → Spelling** का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>34.</b> PowerPoint में Slide Show Loop कैसे करें?",
+        "description": "Slide Show को लगातार चलाने के लिए **Set Up Slide Show → Loop Continuously Until Esc** का उपयोग करें।"
+    },
+    {
+        "heading": "<b>35.</b> PowerPoint में Handout Printing क्या है?",
+        "description": "Handout Printing का उपयोग प्रेजेंटेशन के प्रिंटेड वर्ज़न को व्यवस्थित करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>36.</b> PowerPoint में Notes Master क्या होता है?",
+        "description": "Notes Master उन नोट्स का लेआउट नियंत्रित करता है,<br> जो प्रेजेंटेशन के साथ स्पीकर के लिए होते हैं।"
+    },
+    {
+        "heading": "<b>37.</b> PowerPoint में Slide Zoom क्या है?",
+        "description": "Slide Zoom का उपयोग किसी विशेष स्लाइड को ज़ूम करके दिखाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>38.</b> PowerPoint में Ink Tools क्या हैं?",
+        "description": "Ink Tools का उपयोग प्रेजेंटेशन के दौरान डिजिटल पेन से लिखने या हाइलाइट करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>39.</b> PowerPoint में Compare Tool क्या करता है?",
+        "description": "Compare Tool का उपयोग दो PowerPoint फ़ाइलों के बीच अंतर देखने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>40.</b> PowerPoint में Presenter View क्या है?",
+        "description": "Presenter View एक विशेष मोड है,<br> जो स्पीकर को उनकी नोट्स और अगली स्लाइड दिखाता है,<br> जबकि दर्शकों को सिर्फ स्लाइड शो दिखता है।"
+    }
+]
+}

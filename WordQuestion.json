@@ -1,0 +1,253 @@
+{
+    "title": "MS Word के महत्वपूर्ण प्रश्न और उत्तर",
+    "content": [
+        {
+            "heading": "<b>1.</b> MS Word क्या है?",
+            "description": "MS Word एक वर्ड प्रोसेसिंग सॉफ्टवेयर है,<br> जो टेक्स्ट डॉक्यूमेंट बनाने, एडिट करने और फॉर्मेट करने के लिए उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>2.</b> MS Word का पहला संस्करण कब जारी किया गया था?",
+            "description": "MS Word का पहला संस्करण 1983 में जारी किया गया था।"
+        },
+        {
+            "heading": "<b>3.</b> MS Word को किस कंपनी ने विकसित किया?",
+            "description": "MS Word को Microsoft कंपनी ने विकसित किया है।"
+        },
+        {
+            "heading": "<b>4.</b> MS Word में डॉक्यूमेंट को सेव करने के लिए कौन-सा कमांड उपयोग होता है?",
+            "description": "डॉक्यूमेंट को सेव करने के लिए **Ctrl + S** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>5.</b> MS Word में नया डॉक्यूमेंट बनाने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "नया डॉक्यूमेंट बनाने के लिए **Ctrl + N** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>6.</b> MS Word में डॉक्यूमेंट को प्रिंट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "डॉक्यूमेंट को प्रिंट करने के लिए **Ctrl + P** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>7.</b> MS Word में टेक्स्ट को कॉपी करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "टेक्स्ट को कॉपी करने के लिए **Ctrl + C** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>8.</b> MS Word में टेक्स्ट को पेस्ट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "टेक्स्ट को पेस्ट करने के लिए **Ctrl + V** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>9.</b> MS Word में टेक्स्ट को कट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "टेक्स्ट को कट करने के लिए **Ctrl + X** शॉर्टकट का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>10.</b> MS Word में 'Find' ऑप्शन के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + F** का उपयोग 'Find' ऑप्शन के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>11.</b> MS Word में 'Replace' ऑप्शन के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + H** का उपयोग 'Replace' ऑप्शन के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>12.</b> MS Word में 'Undo' के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + Z** का उपयोग 'Undo' के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>13.</b> MS Word में 'Redo' के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + Y** का उपयोग 'Redo' के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>14.</b> MS Word में Bold टेक्स्ट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + B** का उपयोग टेक्स्ट को Bold करने के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>15.</b> MS Word में Italic टेक्स्ट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + I** का उपयोग टेक्स्ट को Italic करने के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>16.</b> MS Word में Underline टेक्स्ट करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + U** का उपयोग टेक्स्ट को Underline करने के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>17.</b> MS Word में 'Select All' करने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**Ctrl + A** का उपयोग 'Select All' के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>18.</b> MS Word में 'Save As' के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+            "description": "**F12** का उपयोग 'Save As' के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>19.</b> MS Word में हेडिंग स्टाइल बदलने के लिए कौन-सा टूल उपयोग किया जाता है?",
+            "description": "हेडिंग स्टाइल बदलने के लिए **Styles** टूल का उपयोग किया जाता है।"
+        },
+        {
+            "heading": "<b>20.</b> MS Word में पेज नंबर जोड़ने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+            "description": "'Insert' टैब में **Page Number** विकल्प का उपयोग किया जाता है।"
+        },
+        
+        
+    {
+        "heading": "<b>21.</b> MS Word में Header और Footer जोड़ने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Insert' टैब में **Header & Footer** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>22.</b> MS Word में Page Orientation बदलने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+        "description": "'Layout' टैब में **Orientation** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>23.</b> MS Word में Spell Check करने के लिए कौन-सा शॉर्टकट उपयोग किया जाता है?",
+        "description": "**F7** का उपयोग Spell Check करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>24.</b> MS Word में Page Break जोड़ने के लिए कौन-सा शॉर्टकट उपयोग किया जाता है?",
+        "description": "**Ctrl + Enter** का उपयोग Page Break जोड़ने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>25.</b> MS Word में Columns बनाने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Layout' टैब में **Columns** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>26.</b> MS Word में Table Insert करने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Insert' टैब में **Table** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>27.</b> MS Word में Hyperlink जोड़ने के लिए कौन-सा शॉर्टकट उपयोग किया जाता है?",
+        "description": "**Ctrl + K** का उपयोग Hyperlink जोड़ने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>28.</b> MS Word में Word Count देखने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+        "description": "'Review' टैब में **Word Count** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>29.</b> MS Word में Track Changes विकल्प किसके लिए उपयोग किया जाता है?",
+        "description": "'Track Changes' विकल्प दस्तावेज़ में सभी संपादन को ट्रैक करने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>30.</b> MS Word में Macro रिकॉर्ड करने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'View' टैब में **Macros** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>31.</b> MS Word में Default Page Size क्या होता है?",
+        "description": "MS Word में Default Page Size **A4** होता है।"
+    },
+    {
+        "heading": "<b>32.</b> MS Word में Watermark जोड़ने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Design' टैब में **Watermark** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>33.</b> MS Word में SmartArt जोड़ने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Insert' टैब में **SmartArt** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>34.</b> MS Word में Text Box जोड़ने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'Insert' टैब में **Text Box** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>35.</b> MS Word में References जोड़ने के लिए कौन-सा टैब उपयोग किया जाता है?",
+        "description": "'References' टैब में **Citations & Bibliography** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>36.</b> MS Word में Mail Merge क्या होता है?",
+        "description": "Mail Merge एक सुविधा है जो एक ही दस्तावेज़ को कई प्राप्तकर्ताओं को भेजने के लिए उपयोग होती है।"
+    },
+    {
+        "heading": "<b>37.</b> MS Word में 'Thesaurus' का क्या उपयोग है?",
+        "description": "'Thesaurus' समानार्थक और विलोम शब्द खोजने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>38.</b> MS Word में Table को Merge करने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+        "description": "'Table Tools' में **Merge Cells** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>39.</b> MS Word में Line Spacing बदलने के लिए कौन-सा शॉर्टकट उपयोग होता है?",
+        "description": "**Ctrl + 1, Ctrl + 2, और Ctrl + 5** का उपयोग Line Spacing बदलने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>40.</b> MS Word में AutoCorrect सुविधा क्या है?",
+        "description": "AutoCorrect सुविधा टाइपिंग की गलतियों को स्वतः सुधारने के लिए उपयोग की जाती है।"
+    },
+
+        
+        
+    {
+        "heading": "<b>41.</b> MS Word में Find & Replace का उपयोग किस लिए किया जाता है?",
+        "description": "'Find' विकल्प किसी शब्द को खोजने के लिए,<br> और 'Replace' विकल्प किसी शब्द को दूसरे शब्द से बदलने के लिए उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>42.</b> MS Word में Save As का उपयोग क्यों किया जाता है?",
+        "description": "'Save As' विकल्प का उपयोग किसी फाइल को नई फाइल के रूप में सेव करने या अलग फॉर्मेट में सेव करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>43.</b> MS Word में Text Highlight Color का उपयोग किस लिए किया जाता है?",
+        "description": "Text Highlight Color का उपयोग टेक्स्ट को हाइलाइट करने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>44.</b> MS Word में Font Color बदलने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+        "description": "'Home' टैब में **Font Color** विकल्प का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>45.</b> MS Word में Font Size बदलने के लिए कौन-सा शॉर्टकट उपयोग किया जाता है?",
+        "description": "**Ctrl + Shift + >** (बढ़ाने के लिए) और **Ctrl + Shift + <** (घटाने के लिए) उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>46.</b> MS Word में Text Alignment के कितने प्रकार होते हैं?",
+        "description": "Text Alignment के चार प्रकार होते हैं:<br> (1) Left, (2) Center, (3) Right, (4) Justify"
+    },
+    {
+        "heading": "<b>47.</b> MS Word में Bold, Italic और Underline के लिए कौन-कौन से शॉर्टकट उपयोग किए जाते हैं?",
+        "description": "Bold: **Ctrl + B**<br> Italic: **Ctrl + I**<br> Underline: **Ctrl + U**"
+    },
+    {
+        "heading": "<b>48.</b> MS Word में Insert Tab के कौन-कौन से मुख्य विकल्प होते हैं?",
+        "description": "Insert Tab में **Table, Picture, Shapes, SmartArt, Header & Footer, Page Number, WordArt** आदि मुख्य विकल्प होते हैं।"
+    },
+    {
+        "heading": "<b>49.</b> MS Word में Paragraph Formatting के लिए कौन-कौन से विकल्प होते हैं?",
+        "description": "**Line Spacing, Alignment, Indentation, Bullets & Numbering** आदि Paragraph Formatting के लिए उपयोग होते हैं।"
+    },
+    {
+        "heading": "<b>50.</b> MS Word में Indentation क्या होता है?",
+        "description": "Indentation वह स्पेसिंग होती है जो पैराग्राफ की शुरुआत में दी जाती है। इसे 'Ruler' या 'Paragraph' सेटिंग से बदला जा सकता है।"
+    },
+    {
+        "heading": "<b>51.</b> MS Word में Drop Cap का क्या उपयोग है?",
+        "description": "Drop Cap का उपयोग पैराग्राफ के पहले अक्षर को बड़ा और आकर्षक दिखाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>52.</b> MS Word में Table में Row और Column जोड़ने के लिए कौन-सा विकल्प उपयोग किया जाता है?",
+        "description": "'Table Tools' के **Layout** टैब में **Insert Above, Insert Below, Insert Left, Insert Right** विकल्पों का उपयोग किया जाता है।"
+    },
+    {
+        "heading": "<b>53.</b> MS Word में Quick Access Toolbar क्या है?",
+        "description": "Quick Access Toolbar एक कस्टमाइज़ेबल टूलबार होता है जिसमें **Save, Undo, Redo, Print** जैसे कमांड होते हैं।"
+    },
+    {
+        "heading": "<b>54.</b> MS Word में Font Group में कौन-कौन से विकल्प होते हैं?",
+        "description": "Font Group में **Font Style, Font Size, Bold, Italic, Underline, Font Color, Text Highlight Color** आदि विकल्प होते हैं।"
+    },
+    {
+        "heading": "<b>55.</b> MS Word में AutoCorrect Options कहाँ उपलब्ध होता है?",
+        "description": "'File' > 'Options' > 'Proofing' > 'AutoCorrect Options' में उपलब्ध होता है।"
+    },
+    {
+        "heading": "<b>56.</b> MS Word में Picture Styles का क्या उपयोग है?",
+        "description": "Picture Styles का उपयोग इमेज पर Shadow, Reflection, Glow, Bevel आदि इफेक्ट्स लगाने के लिए किया जाता है।"
+    },
+    {
+        "heading": "<b>57.</b> MS Word में Read Mode क्या है?",
+        "description": "Read Mode वह मोड है जिसमें डॉक्यूमेंट को पूरा स्क्रीन में पढ़ने के लिए दिखाया जाता है।"
+    },
+    {
+        "heading": "<b>58.</b> MS Word में Page Number कहां जोड़ा जाता है?",
+        "description": "Page Number को **Header & Footer** सेक्शन में जोड़ा जाता है।"
+    },
+    {
+        "heading": "<b>59.</b> MS Word में Status Bar पर कौन-कौन सी जानकारी दिखती है?",
+        "description": "Status Bar पर **Page Number, Word Count, Language, Zoom Slider, View Mode** जैसी जानकारी दिखती है।"
+    },
+    {
+        "heading": "<b>60.</b> MS Word में Bookmark का क्या उपयोग है?",
+        "description": "Bookmark का उपयोग किसी विशेष स्थान को मार्क करने के लिए किया जाता है ताकि बाद में उसे जल्दी एक्सेस किया जा सके।"
+    }
+
+        
+        
+    ]
+}

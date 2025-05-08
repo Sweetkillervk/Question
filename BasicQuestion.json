@@ -1,0 +1,141 @@
+{
+    "title": "Basic Computer के महत्वपूर्ण प्रश्न और उत्तर",
+    "content": [
+        {
+            "heading": "<b>1.</b> कंप्यूटर क्या है?",
+            "description": "कंप्यूटर एक इलेक्ट्रॉनिक डिवाइस है जो डेटा को प्रोसेस करके उपयोगी जानकारी प्रदान करता है।"
+        },
+        {
+            "heading": "<b>2.</b> CPU का पूरा नाम क्या है?",
+            "description": "CPU का पूरा नाम Central Processing Unit है।"
+        },
+        {
+            "heading": "<b>3.</b> RAM और ROM में क्या अंतर है?",
+            "description": "RAM अस्थायी मेमोरी होती है,<br> जबकि ROM स्थायी मेमोरी होती है।"
+        },
+        {
+            "heading": "<b>4.</b> HDD और SSD में क्या अंतर है?",
+            "description": "HDD एक पारंपरिक स्टोरेज डिवाइस है,<br> जबकि SSD तेज़ और टिकाऊ स्टोरेज डिवाइस है।"
+        },
+        {
+            "heading": "<b>5.</b> Windows और Linux में क्या अंतर है?",
+            "description": "Windows एक यूजर-फ्रेंडली OS है,<br> जबकि Linux एक ओपन-सोर्स और अधिक सुरक्षित OS है।"
+        },
+        {
+            "heading": "<b>6.</b> Notepad किस प्रकार का सॉफ्टवेयर है?",
+            "description": "Notepad एक सिंपल टेक्स्ट एडिटर सॉफ्टवेयर है।"
+        },
+        {
+            "heading": "<b>7.</b> Ctrl + C किसके लिए उपयोग किया जाता है?",
+            "description": "Ctrl + C का उपयोग टेक्स्ट या फ़ाइल कॉपी करने के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>8.</b> Ctrl + V का क्या कार्य है?",
+            "description": "Ctrl + V का उपयोग कॉपी या कट किए गए कंटेंट को पेस्ट करने के लिए किया जाता है।"
+        },
+        {
+            "heading": "<b>9.</b> कंप्यूटर का फुल फॉर्म क्या है?",
+            "description": "COMPUTER का कोई आधिकारिक फुल फॉर्म नहीं है,<br> लेकिन इसे 'Common Operating Machine Purposely Used for Technological and Educational Research' कहा जाता है।"
+        },
+        {
+            "heading": "<b>10.</b> Bit और Byte में क्या अंतर है?",
+            "description": "Bit डेटा की सबसे छोटी इकाई है,<br> जबकि 1 Byte = 8 Bits के बराबर होता है।"
+        },
+        {
+            "heading": "<b>11.</b> मदरबोर्ड क्या होता है?",
+            "description": "मदरबोर्ड एक मुख्य सर्किट बोर्ड होता है,<br> जिसमें कंप्यूटर के सभी हार्डवेयर कनेक्ट होते हैं।"
+        },
+        {
+            "heading": "<b>12.</b> BIOS का पूरा नाम क्या है?",
+            "description": "BIOS का पूरा नाम Basic Input Output System है।"
+        },
+        {
+            "heading": "<b>13.</b> USB का पूरा नाम क्या है?",
+            "description": "USB का पूरा नाम Universal Serial Bus है।"
+        },
+        {
+            "heading": "<b>14.</b> IP Address क्या होता है?",
+            "description": "IP Address एक यूनिक पहचान संख्या होती है,<br> जो किसी डिवाइस को नेटवर्क में पहचानने के लिए उपयोग होती है।"
+        },
+        {
+            "heading": "<b>15.</b> Wi-Fi का पूरा नाम क्या है?",
+            "description": "Wi-Fi का पूरा नाम Wireless Fidelity है।"
+        },
+        {
+            "heading": "<b>16.</b> LAN और WAN में क्या अंतर है?",
+            "description": "LAN एक लोकल नेटवर्क होता है,<br> जबकि WAN एक बड़ा नेटवर्क होता है जो कई LAN को जोड़ता है।"
+        },
+        {
+            "heading": "<b>17.</b> Firewall क्या होता है?",
+            "description": "Firewall एक सुरक्षा प्रणाली है,<br> जो अनाधिकृत एक्सेस से नेटवर्क को सुरक्षित रखती है।"
+        },
+        {
+            "heading": "<b>18.</b> Cloud Computing क्या है?",
+            "description": "Cloud Computing एक तकनीक है,<br> जिसमें डेटा और एप्लिकेशन इंटरनेट पर स्टोर और एक्सेस किए जाते हैं।"
+        },
+        {
+            "heading": "<b>19.</b> कंप्यूटर वायरस क्या होता है?",
+            "description": "कंप्यूटर वायरस एक हानिकारक प्रोग्राम होता है,<br> जो डेटा को नुकसान पहुँचा सकता है।"
+        },
+        {
+            "heading": "<b>20.</b> VPN का पूरा नाम क्या है?",
+            "description": "VPN का पूरा नाम Virtual Private Network है,<br> जो इंटरनेट पर सुरक्षित कनेक्शन प्रदान करता है।"
+        },
+        {
+            "heading": "<b>21.</b> Cache Memory क्या होती है?",
+            "description": "Cache Memory एक हाई-स्पीड मेमोरी होती है,<br> जो डेटा को अस्थायी रूप से स्टोर करती है।"
+        },
+        {
+            "heading": "<b>22.</b> Operating System क्या होता है?",
+            "description": "Operating System एक सॉफ्टवेयर है,<br> जो हार्डवेयर और यूजर के बीच इंटरफेस प्रदान करता है।"
+        },
+        {
+            "heading": "<b>23.</b> कंप्यूटर में नेटवर्किंग क्यों आवश्यक है?",
+            "description": "नेटवर्किंग के द्वारा कंप्यूटर डेटा साझा कर सकते हैं,<br> जिससे कार्य कुशलता बढ़ती है।"
+        },
+        {
+            "heading": "<b>24.</b> HTTP और HTTPS में क्या अंतर है?",
+            "description": "HTTPS सुरक्षित होता है क्योंकि इसमें डेटा एन्क्रिप्ट किया जाता है,<br> जबकि HTTP असुरक्षित होता है।"
+        },
+        {
+            "heading": "<b>25.</b> IP Address के प्रकार कितने होते हैं?",
+            "description": "IP Address दो प्रकार के होते हैं:<br> 1. IPv4 (32-bit)<br> 2. IPv6 (128-bit)"
+        },
+        {
+            "heading": "<b>26.</b> Router क्या होता है?",
+            "description": "Router एक नेटवर्क डिवाइस है,<br> जो विभिन्न नेटवर्क के बीच डेटा भेजता और रिसीव करता है।"
+        },
+        {
+            "heading": "<b>27.</b> Compiler क्या होता है?",
+            "description": "Compiler एक प्रोग्राम है,<br> जो हाई-लेवल कोड को मशीन लैंग्वेज में बदलता है।"
+        },
+        {
+            "heading": "<b>28.</b> SSD का फुल फॉर्म क्या है?",
+            "description": "SSD का पूरा नाम Solid State Drive है।"
+        },
+        {
+            "heading": "<b>29.</b> SMTP का पूरा नाम क्या है?",
+            "description": "SMTP का पूरा नाम Simple Mail Transfer Protocol है।"
+        },
+        {
+            "heading": "<b>30.</b> कंप्यूटर में Cache का उपयोग क्यों किया जाता है?",
+            "description": "Cache डेटा एक्सेस स्पीड को बढ़ाने के लिए उपयोग की जाती है।"
+        },
+        {
+            "heading": "<b>31.</b> Bluetooth क्या है?",
+            "description": "Bluetooth एक वायरलेस तकनीक है,<br> जो छोटे दूरी में डेटा ट्रांसफर के लिए उपयोग होती है।"
+        },
+        {
+            "heading": "<b>32.</b> DNS का पूरा नाम क्या है?",
+            "description": "DNS का पूरा नाम Domain Name System है।"
+        },
+        {
+            "heading": "<b>33.</b> HTML का पूरा नाम क्या है?",
+            "description": "HTML का पूरा नाम Hypertext Markup Language है।"
+        },
+        {
+            "heading": "<b>34.</b> Backup क्यों आवश्यक है?",
+            "description": "Backup डेटा को सुरक्षित रखने के लिए आवश्यक है,<br> जिससे डेटा लॉस से बचा जा सके।"
+        }
+    ]
+}
