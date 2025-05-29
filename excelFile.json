@@ -1,0 +1,58 @@
+{
+    "title": "MS Excel File Tab",
+    "content": [
+      {
+        "heading": "File Tab का परिचय",
+        "description": "<p>MS Excel में File Tab को 'Backstage View' के रूप में जाना जाता है। यह उपयोगकर्ताओं को Excel फ़ाइलों के प्रबंधन से संबंधित सभी प्रमुख कार्यों तक पहुँच प्रदान करता है, जैसे कि नई फ़ाइल बनाना, सेव करना, प्रिंट करना, शेयर करना, और विकल्प सेट करना।</p>"
+      },
+      {
+        "heading": "File Tab के मुख्य विकल्प",
+        "description": "<p>File Tab में निम्नलिखित मुख्य विकल्प होते हैं:</p>"
+      },
+      {
+        "heading": "1. New",
+        "description": "<p>इस विकल्प का उपयोग एक नई Excel वर्कबुक बनाने के लिए किया जाता है।</p><ul><li><b>Blank Workbook:</b> एक खाली वर्कबुक खोलता है।</li><li><b>Templates:</b> विभिन्न प्रकार के तैयार किए गए टेम्पलेट्स उपलब्ध होते हैं, जैसे इनवॉइस, बजट शीट आदि।</li></ul>"
+      },
+      {
+        "heading": "2. Open",
+        "description": "<p>यह विकल्प मौजूदा Excel फ़ाइलों को खोलने के लिए उपयोग किया जाता है।</p><ul><li><b>Recent:</b> हाल ही में खोली गई फ़ाइलों की सूची दिखाता है।</li><li><b>OneDrive:</b> Microsoft OneDrive से फ़ाइल खोलने की सुविधा।</li><li><b>This PC:</b> कंप्यूटर के लोकल ड्राइव से फ़ाइल खोलने की सुविधा।</li><li><b>Browse:</b> फ़ाइल एक्सप्लोरर के माध्यम से फ़ाइल ढूंढने का विकल्प।</li></ul>"
+      },
+      {
+        "heading": "3. Save",
+        "description": "<p>यह विकल्प मौजूदा फ़ाइल को सेव करने के लिए उपयोग किया जाता है। यदि फ़ाइल पहली बार सेव की जा रही है, तो उपयोगकर्ता से फ़ाइल का नाम और स्थान पूछा जाता है।</p><ul><li><b>Shortcut Key:</b> <b>Ctrl + S</b></li></ul>"
+      },
+      {
+        "heading": "4. Save As",
+        "description": "<p>इस विकल्प का उपयोग किसी मौजूदा फ़ाइल को एक नए नाम या फ़ॉर्मेट में सेव करने के लिए किया जाता है।</p><ul><li><b>Excel Workbook (.xlsx):</b> डिफ़ॉल्ट Excel फ़ॉर्मेट।</li><li><b>Excel Macro-Enabled Workbook (.xlsm):</b> मैक्रो युक्त फ़ाइल सेव करने के लिए।</li><li><b>Excel 97-2003 Workbook (.xls):</b> पुरानी Excel फ़ाइल फ़ॉर्मेट।</li><li><b>PDF (.pdf):</b> Excel फ़ाइल को PDF में सेव करने के लिए।</li></ul>"
+      },
+      {
+        "heading": "5. Print",
+        "description": "<p>यह विकल्प वर्कबुक को प्रिंट करने के लिए उपयोग किया जाता है।</p><ul><li><b>Printer Selection:</b> प्रिंटर का चयन करने की सुविधा।</li><li><b>Page Setup:</b> पेज ओरिएंटेशन, मार्जिन, और साइज सेट करने की सुविधा।</li><li><b>Print Preview:</b> प्रिंट से पहले डॉक्यूमेंट का पूर्वावलोकन करने की सुविधा।</li><li><b>Shortcut Key:</b> <b>Ctrl + P</b></li></ul>"
+      },
+      {
+        "heading": "6. Share",
+        "description": "<p>इस विकल्प का उपयोग Excel फ़ाइल को ईमेल, OneDrive, या अन्य ऑनलाइन प्लेटफार्म के माध्यम से साझा करने के लिए किया जाता है।</p><ul><li><b>OneDrive:</b> Microsoft OneDrive पर फ़ाइल अपलोड करके दूसरों के साथ साझा करना।</li><li><b>Email:</b> ईमेल के माध्यम से Excel फ़ाइल भेजना।</li><li><b>Link Sharing:</b> लिंक के माध्यम से फ़ाइल साझा करने का विकल्प।</li></ul>"
+      },
+      {
+        "heading": "7. Export",
+        "description": "<p>यह विकल्प Excel फ़ाइल को अन्य फ़ॉर्मेट में निर्यात (Export) करने के लिए उपयोग किया जाता है।</p><ul><li><b>Create PDF/XPS:</b> Excel फ़ाइल को PDF या XPS फ़ॉर्मेट में सेव करने की सुविधा।</li><li><b>Change File Type:</b> फ़ाइल को अन्य स्वरूपों (CSV, ODS, XPS) में बदलने का विकल्प।</li></ul>"
+      },
+      {
+        "heading": "8. Close",
+        "description": "<p>इस विकल्प का उपयोग मौजूदा Excel वर्कबुक को बंद करने के लिए किया जाता है।</p><ul><li><b>Shortcut Key:</b> <b>Ctrl + W</b></li></ul>"
+      },
+      {
+        "heading": "9. Account",
+        "description": "<p>इस सेक्शन में Excel उपयोगकर्ता की Microsoft Account से जुड़ी जानकारी होती है।</p><ul><li><b>User Info:</b> लॉगिन किया हुआ उपयोगकर्ता का विवरण।</li><li><b>Product Information:</b> Excel का संस्करण और लाइसेंस स्टेटस।</li><li><b>Office Updates:</b> Excel और अन्य Office ऐप्स के लिए अपडेट चेक करने का विकल्प।</li></ul>"
+      },
+      {
+        "heading": "10. Options",
+        "description": "<p>Excel में विभिन्न सेटिंग्स बदलने के लिए उपयोग किया जाता है।</p><ul><li><b>General:</b> Excel का डिफ़ॉल्ट सेटअप।</li><li><b>Formulas:</b> फार्मूला कैलकुलेशन से जुड़ी सेटिंग्स।</li><li><b>Proofing:</b> स्पेल चेक और ऑटो-करैक्शन सेटिंग्स।</li><li><b>Save:</b> ऑटो-सेव और फ़ाइल लोकेशन सेट करना।</li><li><b>Language:</b> Excel की भाषा बदलने का विकल्प।</li><li><b>Advanced:</b> Excel के उन्नत फीचर्स को सेट करने की सुविधा।</li></ul>"
+      },
+      {
+        "heading": "निष्कर्ष",
+        "description": "<p>MS Excel का File Tab उपयोगकर्ताओं को फ़ाइल से जुड़े सभी आवश्यक कार्यों को प्रबंधित करने की सुविधा देता है। यह Excel का एक महत्वपूर्ण भाग है जो डेटा सेविंग, प्रिंटिंग, शेयरिंग, और सेटिंग्स से संबंधित सभी कार्यों को सुगम बनाता है।</p>"
+      }
+    ]
+  }
+  
